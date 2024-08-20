@@ -1,0 +1,34 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://mlchain.github.io/</loc>
+  <lastmod>2023-04-09T04:00:54+00:00</lastmod>
+</url>
+<url>
+  <loc>https://mlchain.github.io/about</loc>
+  <lastmod>2023-04-01T04:00:54+00:00</lastmod>
+</url>
+<url>
+  <loc>https://mlchain.github.io/privacy-policy</loc>
+  <lastmod>2023-03-26T04:00:54+00:00</lastmod>
+</url>
+<url>
+  <loc>https://mlchain.github.io/terms-of-service</loc>
+  <lastmod>2023-03-26T04:00:54+00:00</lastmod>
+</url>
+<url>
+  <loc>https://mlchain.github.io/zh-hans/</loc>
+  <lastmod>2023-03-26T04:00:54+00:00</lastmod>
+</url>
+<url>
+  <loc>https://docs.mlchain.khulnasoft.com/en/</loc>
+  <lastmod>2023-04-01T04:00:54+00:00</lastmod>
+</url>
+<url>
+  <loc>https://docs.mlchain.khulnasoft.com/zh-hans/</loc>
+  <lastmod>2023-04-01T04:00:54+00:00</lastmod>
+</url>
+<url>
+  <loc>https://blo.mlchain.github.io/</loc>
+  <lastmod>2023-04-09T04:00:54+00:00</lastmod>
+</url>
+</urlset>
