@@ -11,7 +11,7 @@ const Header = () => {
   const [isChimpVisible, setIsChimpVisible] = useState(false)
   const onSignIn = useCallback(() => {
     window.gtag_report_conversion();
-    window.open("https://cloud.mlchain.khulnasoft.com", "_blank");
+    window.open("https://cloud-mlchain.khulnasoft.com", "_blank");
   }, []);
 
   return (

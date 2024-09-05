@@ -18,7 +18,7 @@ const Block1 = () => {
   // const [githubText, setGithubText] = useState(t("Github"));
   const onTryCloud = useCallback(() => {
     window.gtag_report_conversion();
-    window.open("https://cloud.mlchain.khulnasoft.com", "_blank");
+    window.open("https://cloud-mlchain.khulnasoft.com", "_blank");
 
   }, []);
   return (
