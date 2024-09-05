@@ -48,7 +48,7 @@ const Block5 = () => {
       },
     },
   ];
-  const path = "https://cloud.mlchain.khulnasoft.com/"
+  const path = "https://cloud-mlchain.khulnasoft.com/"
   return (
     <Container className={s.container}>
       <div className={s.title}>{t("AI 解放生产力，开发 AI 也别使蛮力")}</div>

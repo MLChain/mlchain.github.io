@@ -18,8 +18,8 @@ const Block2 = () => {
       ),
       link:
         local === "zh"
-          ? "https://mlchain.app/chat/hHHwxiorZ4XaWSV5"
-          : "https://mlchain.app/chat/mx1C9IN0eJcBKNlO",
+          ? "https://mlchain.github.io/chat/hHHwxiorZ4XaWSV5"
+          : "https://mlchain.github.io/chat/mx1C9IN0eJcBKNlO",
       learn:
         local === "zh"
           ? "https://docs.mlchain.khulnasoft.com/zh-hans/application/creating-an-application"
@@ -31,8 +31,8 @@ const Block2 = () => {
       content: t("为外文文字工作者提供个性化的翻译工具。"),
       link:
         local === "zh"
-          ? "https://mlchain.app/completion/F68G7B8bzk1hoqtA"
-          : "https://mlchain.app/completion/eu92JaoaD1qphwGm",
+          ? "https://mlchain.github.io/completion/F68G7B8bzk1hoqtA"
+          : "https://mlchain.github.io/completion/eu92JaoaD1qphwGm",
       learn:
         local === "zh"
           ? "https://docs.mlchain.khulnasoft.com/zh-hans/application/creating-an-application"
@@ -46,8 +46,8 @@ const Block2 = () => {
       ),
       link:
         local === "zh"
-          ? "https://mlchain.app/completion/40ddg3LbHIhOKl5h"
-          : "https://mlchain.app/completion/aeFTj0VCb3Ok3TUE",
+          ? "https://mlchain.github.io/completion/40ddg3LbHIhOKl5h"
+          : "https://mlchain.github.io/completion/aeFTj0VCb3Ok3TUE",
       learn:
         local === "zh"
           ? "https://docs.mlchain.khulnasoft.com/zh-hans/application/creating-an-application"
@@ -61,8 +61,8 @@ const Block2 = () => {
       ),
       link:
         local === "zh"
-          ? "https://mlchain.app/chat/oVNMvO96PQl4iZiN"
-          : "https://mlchain.app/chat/J4MpxGOjEasj5eWL",
+          ? "https://mlchain.github.io/chat/oVNMvO96PQl4iZiN"
+          : "https://mlchain.github.io/chat/J4MpxGOjEasj5eWL",
       learn:
         local === "zh"
           ? "https://docs.mlchain.khulnasoft.com/zh-hans/application/creating-an-application"
@@ -71,7 +71,7 @@ const Block2 = () => {
     {
       icon: "magic",
       title: t("You can build unlimited creative,practical apps of AI."),
-      link: "https://cloud.mlchain.khulnasoft.com/",
+      link: "https://cloud-mlchain.khulnasoft.com/",
     },
   ];
   const onOpen = (path: string) => {
